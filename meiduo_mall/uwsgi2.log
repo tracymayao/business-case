@@ -1,0 +1,139 @@
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Nov  9 17:21:19 2018] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 15 July 2018 08:58:55
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Mon Jan  9 23:07:29 PST 2017; root:xnu-3248.60.11.2.1~1/RELEASE_X86_64
+nodename: smartli.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/smart/Desktop/sy14_code/meiduo_sy14/meiduo_mall
+writing pidfile to uwsgi2.pid
+detected binary path: /Users/smart/.virtualenvs/django/bin/uwsgi
+chdir() to /Users/smart/Desktop/sy14_code/meiduo_sy14/meiduo_mall
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 10240
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8002 fd 3
+Python version: 3.5.2 (default, Oct 21 2017, 11:45:19)  [GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)]
+Set PythonHome to /Users/smart/.virtualenvs/django
+Python main interpreter initialized at 0x7fa071e00a10
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416560 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fa071e00a10 pid: 23280 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 23280)
+spawned uWSGI worker 1 (pid: 23281, cores: 2)
+spawned uWSGI worker 2 (pid: 23282, cores: 2)
+spawned uWSGI worker 3 (pid: 23283, cores: 2)
+spawned uWSGI worker 4 (pid: 23284, cores: 2)
+[pid: 23282|app: 0|req: 1/1] 127.0.0.1 () {44 vars in 778 bytes} [Fri Nov  9 17:27:48 2018] GET /usernames/smart/count/ => generated 30 bytes in 404 msecs (HTTP/1.1 200) 6 headers in 197 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Nov  9 17:30:00 2018] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 15 July 2018 08:58:55
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Mon Jan  9 23:07:29 PST 2017; root:xnu-3248.60.11.2.1~1/RELEASE_X86_64
+nodename: smartli.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/smart/Desktop/sy14_code/meiduo_sy14/meiduo_mall
+writing pidfile to uwsgi2.pid
+detected binary path: /Users/smart/.virtualenvs/django/bin/uwsgi
+chdir() to /Users/smart/Desktop/sy14_code/meiduo_sy14/meiduo_mall
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 10240
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8002 fd 3
+Python version: 3.5.2 (default, Oct 21 2017, 11:45:19)  [GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)]
+Set PythonHome to /Users/smart/.virtualenvs/django
+Python main interpreter initialized at 0x7fa301d00bb0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416560 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fa301d00bb0 pid: 23358 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 23358)
+spawned uWSGI worker 1 (pid: 23360, cores: 2)
+spawned uWSGI worker 2 (pid: 23361, cores: 2)
+spawned uWSGI worker 3 (pid: 23362, cores: 2)
+spawned uWSGI worker 4 (pid: 23363, cores: 2)
+[pid: 23361|app: 0|req: 2/1] 127.0.0.1 () {44 vars in 786 bytes} [Fri Nov  9 17:30:29 2018] GET /mobiles/13155667788/count/ => generated 34 bytes in 419 msecs (HTTP/1.1 200) 7 headers in 250 bytes (1 switches on core 0)
+[pid: 23361|app: 0|req: 2/2] 127.0.0.1 () {44 vars in 778 bytes} [Fri Nov  9 17:30:29 2018] GET /sms_codes/13155667788/ => generated 32 bytes in 488 msecs (HTTP/1.1 200) 7 headers in 250 bytes (1 switches on core 1)
+[pid: 23362|app: 0|req: 1/3] 127.0.0.1 () {46 vars in 950 bytes} [Fri Nov  9 17:30:40 2018] POST /authorizations/ => generated 228 bytes in 433 msecs (HTTP/1.1 200) 7 headers in 238 bytes (1 switches on core 0)
+[pid: 23363|app: 0|req: 1/4] 127.0.0.1 () {40 vars in 725 bytes} [Fri Nov  9 17:32:39 2018] GET /usernames/smart/count/ => generated 30 bytes in 406 msecs (HTTP/1.1 200) 7 headers in 250 bytes (1 switches on core 1)
+[pid: 23363|app: 0|req: 2/5] 127.0.0.1 () {40 vars in 725 bytes} [Fri Nov  9 17:32:43 2018] GET /usernames/smart/count/ => generated 30 bytes in 7 msecs (HTTP/1.1 200) 7 headers in 250 bytes (2 switches on core 0)
+[pid: 23363|app: 0|req: 4/6] 127.0.0.1 () {40 vars in 854 bytes} [Fri Nov  9 17:48:56 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js => generated 128 bytes in 44 msecs (HTTP/1.1 404) 4 headers in 115 bytes (2 switches on core 0)
+[pid: 23363|app: 0|req: 4/7] 127.0.0.1 () {40 vars in 877 bytes} [Fri Nov  9 17:48:56 2018] GET /static/xadmin/vendor/font-awesome/css/font-awesome.min.css => generated 132 bytes in 50 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 23363|app: 0|req: 5/8] 127.0.0.1 () {40 vars in 854 bytes} [Fri Nov  9 17:48:56 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js => generated 128 bytes in 3 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 23360|app: 0|req: 2/9] 127.0.0.1 () {40 vars in 774 bytes} [Fri Nov  9 17:48:56 2018] GET /xadmin/jsi18n/ => generated 4828 bytes in 438 msecs (HTTP/1.1 200) 4 headers in 123 bytes (2 switches on core 1)
+[pid: 23360|app: 0|req: 2/10] 127.0.0.1 () {40 vars in 858 bytes} [Fri Nov  9 17:48:56 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js => generated 130 bytes in 404 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 23362|app: 0|req: 2/11] 127.0.0.1 () {40 vars in 854 bytes} [Fri Nov  9 17:48:56 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js => generated 128 bytes in 21 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 23362|app: 0|req: 3/12] 127.0.0.1 () {40 vars in 858 bytes} [Fri Nov  9 17:48:56 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js => generated 130 bytes in 1 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 23363|app: 0|req: 6/13] 127.0.0.1 () {40 vars in 854 bytes} [Fri Nov  9 17:48:56 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js => generated 128 bytes in 2 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 23363|app: 0|req: 8/14] 127.0.0.1 () {40 vars in 840 bytes} [Fri Nov  9 17:49:02 2018] GET /static/xadmin/vendor/font-awesome/css/font-awesome.min.css => generated 132 bytes in 3 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 23362|app: 0|req: 4/15] 127.0.0.1 () {40 vars in 817 bytes} [Fri Nov  9 17:49:02 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js => generated 128 bytes in 3 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 23363|app: 0|req: 9/16] 127.0.0.1 () {40 vars in 821 bytes} [Fri Nov  9 17:49:02 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js => generated 130 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 115 bytes (2 switches on core 0)
+[pid: 23361|app: 0|req: 3/17] 127.0.0.1 () {40 vars in 817 bytes} [Fri Nov  9 17:49:02 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js => generated 128 bytes in 25 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 23363|app: 0|req: 9/18] 127.0.0.1 () {40 vars in 737 bytes} [Fri Nov  9 17:49:02 2018] GET /xadmin/jsi18n/ => generated 4405 bytes in 78 msecs (HTTP/1.1 200) 7 headers in 389 bytes (1 switches on core 1)
+[pid: 23363|app: 0|req: 10/19] 127.0.0.1 () {40 vars in 817 bytes} [Fri Nov  9 17:49:02 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js => generated 128 bytes in 2 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 23361|app: 0|req: 4/20] 127.0.0.1 () {40 vars in 821 bytes} [Fri Nov  9 17:49:02 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js => generated 130 bytes in 1 msecs (HTTP/1.1 404) 4 headers in 115 bytes (2 switches on core 1)
+[pid: 23363|app: 0|req: 11/21] 127.0.0.1 () {40 vars in 817 bytes} [Fri Nov  9 17:49:02 2018] GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js => generated 128 bytes in 2 msecs (HTTP/1.1 404) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 23363|app: 0|req: 12/22] 127.0.0.1 () {42 vars in 904 bytes} [Fri Nov  9 17:51:35 2018] GET /xadmin/ => generated 26 bytes in 1 msecs (HTTP/1.1 400) 2 headers in 67 bytes (1 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Nov  9 17:53:44 2018] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 15 July 2018 08:58:55
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Mon Jan  9 23:07:29 PST 2017; root:xnu-3248.60.11.2.1~1/RELEASE_X86_64
+nodename: smartli.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/smart/Desktop/sy14_code/meiduo_sy14/meiduo_mall
+writing pidfile to uwsgi2.pid
+detected binary path: /Users/smart/.virtualenvs/django/bin/uwsgi
+chdir() to /Users/smart/Desktop/sy14_code/meiduo_sy14/meiduo_mall
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 10240
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8002 fd 3
+Python version: 3.5.2 (default, Oct 21 2017, 11:45:19)  [GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)]
+Set PythonHome to /Users/smart/.virtualenvs/django
+Python main interpreter initialized at 0x7fd1c3600a90
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416560 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fd1c3600a90 pid: 24161 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 24161)
+spawned uWSGI worker 1 (pid: 24163, cores: 2)
+spawned uWSGI worker 2 (pid: 24164, cores: 2)
+spawned uWSGI worker 3 (pid: 24165, cores: 2)
+spawned uWSGI worker 4 (pid: 24166, cores: 2)
+[pid: 24163|app: 0|req: 1/1] 127.0.0.1 () {42 vars in 904 bytes} [Fri Nov  9 17:53:52 2018] GET /xadmin/ => generated 4398 bytes in 476 msecs (HTTP/1.1 200) 8 headers in 474 bytes (2 switches on core 0)
+[pid: 24165|app: 0|req: 1/2] 127.0.0.1 () {50 vars in 1060 bytes} [Fri Nov  9 17:54:01 2018] POST /xadmin/ => generated 0 bytes in 468 msecs (HTTP/1.1 302) 11 headers in 633 bytes (2 switches on core 1)
+[pid: 24166|app: 0|req: 1/3] 127.0.0.1 () {40 vars in 816 bytes} [Fri Nov  9 17:54:02 2018] GET /xadmin/jsi18n/ => generated 4828 bytes in 401 msecs (HTTP/1.1 200) 4 headers in 123 bytes (1 switches on core 0)
+[pid: 24166|app: 0|req: 2/4] 127.0.0.1 () {40 vars in 828 bytes} [Fri Nov  9 17:54:12 2018] GET /xadmin/jsi18n/ => generated 4828 bytes in 11 msecs (HTTP/1.1 200) 4 headers in 123 bytes (2 switches on core 1)
+[pid: 24166|app: 0|req: 3/5] 127.0.0.1 () {40 vars in 832 bytes} [Fri Nov  9 17:54:14 2018] GET /xadmin/jsi18n/ => generated 4828 bytes in 9 msecs (HTTP/1.1 200) 4 headers in 123 bytes (1 switches on core 0)

@@ -1,0 +1,1049 @@
+ERROR 2018-10-25 16:16:29,353 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 503 32
+INFO 2018-10-25 16:17:17,160 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+INFO 2018-10-25 16:18:59,736 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+INFO 2018-10-25 16:19:01,859 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+INFO 2018-10-25 16:24:57,021 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+WARNING 2018-10-25 16:25:03,724 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 400 38
+ERROR 2018-10-25 16:47:18,203 exception 80 Invalid HTTP_HOST header: 'api.meiduo.site:8000'. You may need to add 'api.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2018-10-25 16:47:18,396 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 400 65061
+INFO 2018-10-25 16:48:29,923 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+ERROR 2018-10-25 16:48:41,611 exception 80 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2018-10-25 16:48:41,808 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 400 65502
+INFO 2018-10-25 16:57:31,316 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+INFO 2018-10-25 17:13:00,418 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+INFO 2018-10-25 18:18:47,288 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+INFO 2018-10-27 15:04:06,629 basehttp 124 "GET /usernames/smart/count/ HTTP/1.1" 200 30
+INFO 2018-10-27 15:05:01,432 basehttp 124 "GET /mobiles/13155667788/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 15:05:04,677 basehttp 124 "GET /mobiles/13155667788/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 15:54:38,266 basehttp 124 "GET /usernames/smart/count/ HTTP/1.1" 200 30
+INFO 2018-10-27 15:54:50,828 basehttp 124 "GET /mobiles/13155667788/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 15:54:56,452 basehttp 124 "GET /mobiles/13155667788/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 15:54:56,930 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+INFO 2018-10-27 15:55:58,124 views 36 短信验证码为: 551303
+INFO 2018-10-27 15:55:58,129 basehttp 124 "GET /mobiles/13155667788/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 15:55:58,747 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+INFO 2018-10-27 15:56:25,226 basehttp 124 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2018-10-27 15:56:25,274 basehttp 124 "GET /usernames/smart/count/ HTTP/1.1" 200 30
+INFO 2018-10-27 15:56:25,282 basehttp 124 "GET /mobiles/13155667788/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 16:00:19,322 basehttp 124 "POST /users/ HTTP/1.1" 201 50
+INFO 2018-10-27 16:54:27,842 basehttp 124 "GET /usernames/smart/count/ HTTP/1.1" 200 30
+INFO 2018-10-27 16:54:31,320 basehttp 124 "GET /usernames/smart/count/ HTTP/1.1" 200 30
+INFO 2018-10-27 16:54:33,476 basehttp 124 "GET /usernames/smart2/count/ HTTP/1.1" 200 31
+INFO 2018-10-27 16:54:47,976 basehttp 124 "GET /mobiles/13177889999/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 16:54:49,870 views 36 短信验证码为: 268392
+INFO 2018-10-27 16:54:49,886 basehttp 124 "GET /mobiles/13177889999/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 16:54:50,348 basehttp 124 "GET /sms_codes/13177889999/ HTTP/1.1" 200 32
+INFO 2018-10-27 16:55:22,467 basehttp 124 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2018-10-27 16:55:22,505 basehttp 124 "GET /usernames/smart2/count/ HTTP/1.1" 200 31
+INFO 2018-10-27 16:55:22,514 basehttp 124 "GET /mobiles/13177889999/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 16:57:02,048 basehttp 124 "POST /users/ HTTP/1.1" 201 225
+INFO 2018-10-27 17:02:59,157 basehttp 124 "GET /usernames/smart3/count/ HTTP/1.1" 200 31
+INFO 2018-10-27 17:03:07,488 basehttp 124 "GET /mobiles/13166669999/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 17:03:07,539 views 36 短信验证码为: 204195
+INFO 2018-10-27 17:03:07,548 basehttp 124 "GET /sms_codes/13166669999/ HTTP/1.1" 200 32
+INFO 2018-10-27 17:03:07,555 basehttp 124 "GET /mobiles/13166669999/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 17:03:22,208 basehttp 124 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2018-10-27 17:03:22,239 basehttp 124 "GET /usernames/smart3/count/ HTTP/1.1" 200 31
+INFO 2018-10-27 17:03:22,251 basehttp 124 "GET /mobiles/13166669999/count/ HTTP/1.1" 200 34
+INFO 2018-10-27 17:03:31,160 basehttp 124 "POST /users/ HTTP/1.1" 201 225
+WARNING 2018-10-27 17:12:13,984 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 67
+INFO 2018-10-27 17:12:33,445 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 173
+INFO 2018-10-27 17:23:38,992 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2018-10-27 17:43:28,752 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-10-27 17:43:28,825 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2018-10-27 17:44:58,723 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 204
+WARNING 2018-10-27 17:45:08,582 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 67
+INFO 2018-10-27 18:08:33,164 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-10-27 18:08:59,600 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2018-10-27 18:09:36,243 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2018-10-27 18:14:51,791 basehttp 124 "GET /usernames/13155778888/count/ HTTP/1.1" 200 36
+INFO 2018-10-27 18:15:10,386 basehttp 124 "GET /usernames/13155778888/count/ HTTP/1.1" 200 36
+INFO 2018-10-27 18:30:54,584 basehttp 124 "GET /usernames/13155778888/count/ HTTP/1.1" 200 36
+INFO 2018-10-28 16:36:49,735 basehttp 124 "GET /mobiles/13155667788/count/ HTTP/1.1" 200 34
+INFO 2018-10-28 17:00:07,876 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 216
+INFO 2018-10-28 17:36:34,699 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 216
+INFO 2018-10-28 17:37:00,346 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 216
+INFO 2018-10-28 17:37:23,649 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 216
+INFO 2018-10-28 17:39:07,115 basehttp 124 "GET /oauth/qq/user/?code=F18F63D12D56ADD9B01A9B41B167E418 HTTP/1.1" 200 190
+INFO 2018-10-28 18:07:23,619 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 195
+INFO 2018-10-28 18:07:47,046 basehttp 124 "GET /oauth/qq/user/?code=1F6DA1EF10503D9C08D676BFB65B068F HTTP/1.1" 200 190
+INFO 2018-10-28 18:08:04,914 views 36 短信验证码为: 907911
+INFO 2018-10-28 18:08:05,329 basehttp 124 "GET /sms_codes/13155667788/ HTTP/1.1" 200 32
+INFO 2018-10-28 18:08:28,617 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+INFO 2018-10-28 18:10:54,186 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 201 199
+INFO 2018-10-28 18:11:42,815 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 195
+INFO 2018-10-28 18:12:31,722 basehttp 124 "GET /oauth/qq/user/?code=CD9F25A7E4B23153773BBB14E2F6C847 HTTP/1.1" 200 204
+INFO 2018-10-30 14:40:39,219 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 216
+INFO 2018-10-30 14:41:34,677 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 216
+INFO 2018-10-30 14:42:37,086 basehttp 124 "GET /oauth/qq/user/?code=C92976E4441A44CE2F4D47006F3A9480 HTTP/1.1" 200 190
+INFO 2018-10-30 15:17:48,594 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-10-30 15:17:48,656 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2018-10-30 15:17:48,704 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+ERROR 2018-10-30 15:17:48,765 exception 135 Internal Server Error: /user/
+Traceback (most recent call last):
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/generics.py", line 215, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/mixins.py", line 58, in retrieve
+    return Response(serializer.data)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 560, in data
+    ret = super(Serializer, self).data
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 510, in to_representation
+    fields = self._readable_fields
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 376, in _readable_fields
+    field for field in self.fields.values()
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 363, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 1045, in get_fields
+    source, info, model, depth
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 1190, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 1302, in build_unknown_field
+    (field_name, model_class.__name__)
+django.core.exceptions.ImproperlyConfigured: Field name `email_ative` is not valid for model `User`.
+ERROR 2018-10-30 15:17:48,813 basehttp 124 "GET /user/ HTTP/1.1" 500 18830
+INFO 2018-10-30 15:18:39,978 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 15:18:40,153 basehttp 124 "GET /user/ HTTP/1.1" 200 82
+INFO 2018-10-30 15:31:02,370 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 15:31:02,381 basehttp 124 "GET /user/ HTTP/1.1" 200 82
+INFO 2018-10-30 15:46:12,840 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 15:46:12,876 basehttp 124 "GET /user/ HTTP/1.1" 200 82
+INFO 2018-10-30 15:47:29,774 basehttp 124 "OPTIONS /email/ HTTP/1.1" 200 0
+INFO 2018-10-30 15:48:23,145 basehttp 124 "PUT /email/ HTTP/1.1" 200 37
+INFO 2018-10-30 16:11:09,044 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 16:11:09,170 basehttp 124 "GET /user/ HTTP/1.1" 200 100
+INFO 2018-10-30 16:11:36,469 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 16:11:36,509 basehttp 124 "GET /user/ HTTP/1.1" 200 82
+INFO 2018-10-30 16:11:56,605 basehttp 124 "OPTIONS /email/ HTTP/1.1" 200 0
+INFO 2018-10-30 16:12:39,789 basehttp 124 "PUT /email/ HTTP/1.1" 200 37
+INFO 2018-10-30 16:21:57,015 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 16:21:57,201 basehttp 124 "GET /user/ HTTP/1.1" 200 100
+INFO 2018-10-30 16:22:04,736 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 16:22:04,849 basehttp 124 "GET /user/ HTTP/1.1" 200 82
+INFO 2018-10-30 16:22:13,768 basehttp 124 "OPTIONS /email/ HTTP/1.1" 200 0
+INFO 2018-10-30 16:22:20,835 basehttp 124 "PUT /email/ HTTP/1.1" 200 37
+INFO 2018-10-30 16:49:34,351 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 16:49:34,660 basehttp 124 "GET /user/ HTTP/1.1" 200 100
+INFO 2018-10-30 16:49:39,088 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 16:49:39,169 basehttp 124 "GET /user/ HTTP/1.1" 200 100
+INFO 2018-10-30 16:50:08,783 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 16:50:08,856 basehttp 124 "GET /user/ HTTP/1.1" 200 100
+INFO 2018-10-30 16:51:46,411 basehttp 124 "OPTIONS /emails/verification/?token=eyJpYXQiOjE1NDA4ODc3MzMsImFsZyI6IkhTMjU2IiwiZXhwIjoxNTQwODk0OTMzfQ.eyJlbWFpbCI6InNtYXJ0bGlfaXRAMTYzLmNvbSIsImlkIjoyfQ.7AFBqEsJDXXmYM-FECVjQ_Az8_JSC207EKB2E2Maiwg HTTP/1.1" 200 0
+INFO 2018-10-30 16:52:49,836 basehttp 124 "PUT /emails/verification/?token=eyJpYXQiOjE1NDA4ODc3MzMsImFsZyI6IkhTMjU2IiwiZXhwIjoxNTQwODk0OTMzfQ.eyJlbWFpbCI6InNtYXJ0bGlfaXRAMTYzLmNvbSIsImlkIjoyfQ.7AFBqEsJDXXmYM-FECVjQ_Az8_JSC207EKB2E2Maiwg HTTP/1.1" 200 16
+INFO 2018-10-30 17:52:36,629 basehttp 124 "GET /areas/ HTTP/1.1" 200 8261
+INFO 2018-10-30 18:01:21,016 basehttp 124 "GET /areas/ HTTP/1.1" 200 8261
+INFO 2018-10-30 18:01:32,435 basehttp 124 "GET /areas/320000/ HTTP/1.1" 200 6707
+INFO 2018-10-30 18:01:48,384 basehttp 124 "GET /areas/320500/ HTTP/1.1" 200 6271
+INFO 2018-10-30 18:01:59,990 basehttp 124 "GET /areas/320509/ HTTP/1.1" 200 5283
+INFO 2018-10-30 18:11:09,458 basehttp 124 "GET /areas/ HTTP/1.1" 200 8397
+INFO 2018-10-30 18:11:16,256 basehttp 124 "GET /areas/340000/ HTTP/1.1" 200 7174
+INFO 2018-10-30 18:14:18,256 basehttp 124 "OPTIONS /emails/verification/?token=eyJpYXQiOjE1NDA4ODc3MzMsImFsZyI6IkhTMjU2IiwiZXhwIjoxNTQwODk0OTMzfQ.eyJlbWFpbCI6InNtYXJ0bGlfaXRAMTYzLmNvbSIsImlkIjoyfQ.7AFBqEsJDXXmYM-FECVjQ_Az8_JSC207EKB2E2Maiwg HTTP/1.1" 200 0
+INFO 2018-10-30 18:14:18,280 basehttp 124 "OPTIONS /users/2/addresses/ HTTP/1.1" 200 0
+WARNING 2018-10-30 18:14:18,307 base 152 Not Found: /users/2/addresses/
+WARNING 2018-10-30 18:14:18,310 basehttp 124 "GET /users/2/addresses/ HTTP/1.1" 404 4653
+INFO 2018-10-30 18:14:18,325 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-30 18:14:18,338 basehttp 124 "PUT /emails/verification/?token=eyJpYXQiOjE1NDA4ODc3MzMsImFsZyI6IkhTMjU2IiwiZXhwIjoxNTQwODk0OTMzfQ.eyJlbWFpbCI6InNtYXJ0bGlfaXRAMTYzLmNvbSIsImlkIjoyfQ.7AFBqEsJDXXmYM-FECVjQ_Az8_JSC207EKB2E2Maiwg HTTP/1.1" 200 16
+INFO 2018-10-30 18:14:28,300 basehttp 124 "PUT /emails/verification/?token=eyJpYXQiOjE1NDA4ODc3MzMsImFsZyI6IkhTMjU2IiwiZXhwIjoxNTQwODk0OTMzfQ.eyJlbWFpbCI6InNtYXJ0bGlfaXRAMTYzLmNvbSIsImlkIjoyfQ.7AFBqEsJDXXmYM-FECVjQ_Az8_JSC207EKB2E2Maiwg HTTP/1.1" 200 16
+INFO 2018-10-30 18:14:28,362 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-30 18:18:30,983 basehttp 124 "PUT /emails/verification/?token=eyJpYXQiOjE1NDA4ODc3MzMsImFsZyI6IkhTMjU2IiwiZXhwIjoxNTQwODk0OTMzfQ.eyJlbWFpbCI6InNtYXJ0bGlfaXRAMTYzLmNvbSIsImlkIjoyfQ.7AFBqEsJDXXmYM-FECVjQ_Az8_JSC207EKB2E2Maiwg HTTP/1.1" 200 16
+INFO 2018-10-30 18:18:31,022 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-30 18:18:39,010 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-30 18:18:58,622 basehttp 124 "GET /areas/320000/ HTTP/1.1" 200 473
+INFO 2018-10-30 18:19:12,549 basehttp 124 "GET /areas/320500/ HTTP/1.1" 200 341
+INFO 2018-10-30 18:20:36,062 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-30 18:20:36,103 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-10-30 18:29:01,072 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-30 18:29:07,027 basehttp 124 "GET /areas/140000/ HTTP/1.1" 200 404
+INFO 2018-10-30 18:29:12,513 basehttp 124 "GET /areas/140300/ HTTP/1.1" 200 194
+INFO 2018-10-31 14:43:49,001 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-10-31 14:43:49,072 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+INFO 2018-10-31 14:43:50,990 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-10-31 14:43:51,047 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-10-31 14:51:45,180 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-31 15:06:57,380 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-31 15:07:21,467 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-31 15:07:36,666 basehttp 124 "GET /areas/330000/ HTTP/1.1" 200 404
+INFO 2018-10-31 15:07:51,218 basehttp 124 "GET /areas/340000/ HTTP/1.1" 200 572
+INFO 2018-10-31 15:08:01,804 basehttp 124 "GET /areas/330000/ HTTP/1.1" 200 404
+INFO 2018-10-31 15:21:56,417 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-31 15:22:41,980 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-10-31 15:22:41,984 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-31 15:22:42,005 basehttp 124 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2018-10-31 15:23:36,686 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-10-31 15:23:36,687 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-31 15:23:36,760 basehttp 124 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2018-10-31 15:23:49,399 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-10-31 15:23:49,401 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-10-31 15:23:49,421 basehttp 124 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2018-10-31 15:24:18,980 basehttp 124 "GET /areas/110000/ HTTP/1.1" 200 74
+INFO 2018-10-31 15:24:20,937 basehttp 124 "GET /areas/110100/ HTTP/1.1" 200 575
+INFO 2018-10-31 15:24:41,807 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-10-31 15:24:41,831 basehttp 124 "POST /addresses/ HTTP/1.1" 201 238
+INFO 2018-10-31 15:25:12,605 basehttp 124 "OPTIONS /addresses/1/status/ HTTP/1.1" 200 0
+INFO 2018-10-31 15:25:12,622 basehttp 124 "PUT /addresses/1/status/ HTTP/1.1" 200 16
+INFO 2018-10-31 15:25:32,905 basehttp 124 "OPTIONS /addresses/1/title/ HTTP/1.1" 200 0
+INFO 2018-10-31 15:25:32,922 basehttp 124 "PUT /addresses/1/title/ HTTP/1.1" 200 27
+INFO 2018-10-31 15:26:04,257 basehttp 124 "OPTIONS /addresses/1/ HTTP/1.1" 200 0
+INFO 2018-10-31 15:26:04,278 basehttp 124 "PUT /addresses/1/ HTTP/1.1" 200 241
+INFO 2018-11-02 15:12:22,937 basehttp 124 "GET /admin HTTP/1.1" 301 0
+INFO 2018-11-02 15:12:22,953 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-11-02 15:12:22,997 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-11-02 15:12:23,051 basehttp 124 "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+INFO 2018-11-02 15:12:23,052 basehttp 124 "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+INFO 2018-11-02 15:12:23,054 basehttp 124 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2018-11-02 15:12:23,077 basehttp 124 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+INFO 2018-11-02 15:12:23,079 basehttp 124 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+INFO 2018-11-02 15:12:31,406 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2018-11-02 15:12:31,428 basehttp 124 "GET /admin/ HTTP/1.1" 200 3027
+INFO 2018-11-02 15:12:31,437 basehttp 124 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2018-11-02 15:12:31,443 basehttp 124 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2018-11-02 15:12:31,443 basehttp 124 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2018-11-02 15:12:31,445 basehttp 124 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+INFO 2018-11-02 15:12:33,533 basehttp 124 "GET /admin/pictest/pictest/ HTTP/1.1" 200 3132
+INFO 2018-11-02 15:12:33,548 basehttp 124 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+INFO 2018-11-02 15:12:33,549 basehttp 124 "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+INFO 2018-11-02 15:12:33,555 basehttp 124 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+INFO 2018-11-02 15:12:33,557 basehttp 124 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+INFO 2018-11-02 15:12:33,557 basehttp 124 "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+INFO 2018-11-02 15:12:33,560 basehttp 124 "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+INFO 2018-11-02 15:12:33,562 basehttp 124 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+INFO 2018-11-02 15:12:33,564 basehttp 124 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+INFO 2018-11-02 15:12:33,566 basehttp 124 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+INFO 2018-11-02 15:12:33,568 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-11-02 15:12:33,610 basehttp 124 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2018-11-02 15:12:36,035 basehttp 124 "GET /admin/pictest/pictest/add/ HTTP/1.1" 200 3872
+INFO 2018-11-02 15:12:36,048 basehttp 124 "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+INFO 2018-11-02 15:12:36,049 basehttp 124 "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+INFO 2018-11-02 15:12:36,052 basehttp 124 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+INFO 2018-11-02 15:12:36,053 basehttp 124 "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+INFO 2018-11-02 15:12:36,059 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-11-02 15:14:11,726 basehttp 124 "POST /admin/pictest/pictest/add/ HTTP/1.1" 302 0
+INFO 2018-11-02 15:14:11,888 basehttp 124 "GET /admin/pictest/pictest/ HTTP/1.1" 200 4503
+INFO 2018-11-02 15:14:11,919 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-11-02 15:14:11,950 basehttp 124 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2018-11-02 15:14:28,017 basehttp 124 "GET /admin/pictest/pictest/add/ HTTP/1.1" 200 3872
+INFO 2018-11-02 15:14:28,050 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-11-02 15:43:00,364 basehttp 124 "GET /admin/ HTTP/1.1" 200 4009
+INFO 2018-11-02 15:43:04,150 basehttp 124 "GET /admin/goods/goods/ HTTP/1.1" 200 3040
+INFO 2018-11-02 15:43:04,165 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-11-02 15:43:07,657 basehttp 124 "GET /admin/goods/goods/add/ HTTP/1.1" 200 12270
+INFO 2018-11-02 15:43:07,675 basehttp 124 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2039
+INFO 2018-11-02 15:43:07,680 basehttp 124 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 690627
+INFO 2018-11-02 15:43:07,682 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-11-02 15:43:07,787 basehttp 124 "GET /static/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 200 338
+INFO 2018-11-02 15:43:07,799 basehttp 124 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 200 18818
+INFO 2018-11-02 15:43:07,800 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 200 46921
+INFO 2018-11-02 15:43:07,808 basehttp 124 "GET /static/ckeditor/ckeditor/styles.js?t=I3I8 HTTP/1.1" 200 5583
+INFO 2018-11-02 15:43:07,820 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1082
+INFO 2018-11-02 15:43:07,820 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 200 381
+INFO 2018-11-02 15:43:07,820 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 200 419
+INFO 2018-11-02 15:43:07,821 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 200 1306
+INFO 2018-11-02 15:43:07,823 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2018-11-02 15:43:07,862 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons_hidpi.png?t=95e5d83 HTTP/1.1" 200 40265
+INFO 2018-11-02 15:43:07,886 basehttp 124 "GET /static/ckeditor/ckeditor/contents.css?t=I3I8 HTTP/1.1" 200 2954
+INFO 2018-11-02 15:43:34,506 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/image/dialogs/image.js?t=I3I8 HTTP/1.1" 200 21390
+INFO 2018-11-02 15:43:34,507 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/dialog.css?t=I3I8 HTTP/1.1" 200 13570
+INFO 2018-11-02 15:43:34,540 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/lock.png HTTP/1.1" 200 1062
+INFO 2018-11-02 15:43:34,540 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/refresh.png HTTP/1.1" 200 1623
+INFO 2018-11-02 15:43:34,541 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/close.png HTTP/1.1" 200 1238
+ERROR 2018-11-02 15:43:51,836 exception 135 Internal Server Error: /ckeditor/upload/
+Traceback (most recent call last):
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/ckeditor_uploader/views.py", line 95, in post
+    if(str(saved_path).split('.')[1].lower() != 'gif'):
+IndexError: list index out of range
+ERROR 2018-11-02 15:43:51,879 basehttp 124 "POST /ckeditor/upload/ HTTP/1.1" 500 89614
+INFO 2018-11-02 15:46:31,841 basehttp 124 "POST /ckeditor/upload/ HTTP/1.1" 200 130
+INFO 2018-11-02 15:50:40,424 basehttp 124 "GET /admin/ HTTP/1.1" 200 8527
+INFO 2018-11-02 17:06:39,705 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8575
+INFO 2018-11-02 17:06:39,727 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-11-02 17:06:43,165 basehttp 124 "GET /admin/goods/sku/3/change/ HTTP/1.1" 200 34152
+INFO 2018-11-02 17:06:43,180 basehttp 124 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2018-11-02 17:06:43,187 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-11-02 17:53:00,328 basehttp 124 "POST /admin/goods/sku/3/change/ HTTP/1.1" 302 0
+INFO 2018-11-02 17:53:00,650 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8803
+INFO 2018-11-02 17:53:00,682 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-11-02 17:59:59,938 basehttp 124 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 34195
+INFO 2018-11-02 17:59:59,974 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-11-02 18:27:45,624 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-11-02 18:27:45,677 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+INFO 2018-11-02 18:27:48,048 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-02 18:27:48,122 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-02 18:32:01,727 basehttp 124 "GET /admin/logout/ HTTP/1.1" 200 1011
+INFO 2018-11-02 18:32:03,167 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-11-02 18:32:03,214 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-11-02 18:32:10,191 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1784
+INFO 2018-11-02 18:32:16,457 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-11-02 18:32:16,501 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-11-02 18:32:23,217 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2018-11-02 18:32:23,297 basehttp 124 "GET /admin/ HTTP/1.1" 200 8877
+INFO 2018-11-02 18:32:25,247 basehttp 124 "GET /admin/ HTTP/1.1" 200 8877
+INFO 2018-11-02 18:32:28,667 basehttp 124 "GET /admin/logout/ HTTP/1.1" 200 1011
+INFO 2018-11-02 18:32:30,226 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-11-02 18:32:30,270 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-11-03 14:51:50,955 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+WARNING 2018-11-03 14:51:51,001 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 67
+INFO 2018-11-03 14:51:55,372 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+INFO 2018-11-03 14:52:00,698 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-03 14:52:00,714 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-03 15:12:00,685 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-03 15:12:00,698 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-03 15:52:46,317 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-03 15:52:46,337 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-11-03 15:54:16,555 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-11-03 15:55:11,685 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-11-03 15:55:20,122 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-11-03 15:55:33,022 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-11-03 15:56:34,597 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-03 15:56:34,631 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-03 16:08:50,842 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-03 16:08:50,902 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-03 16:09:11,410 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-03 16:09:11,418 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-03 16:09:11,476 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 646
+INFO 2018-11-03 16:10:20,806 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-03 16:10:24,497 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 646
+INFO 2018-11-03 16:10:26,913 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-03 16:10:55,222 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 646
+INFO 2018-11-03 16:11:05,287 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-11-03 16:11:06,893 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-03 16:11:06,948 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 646
+INFO 2018-11-03 16:44:45,244 basehttp 124 "GET /categories/115/skus/ HTTP/1.1" 200 11956
+INFO 2018-11-03 16:50:52,696 basehttp 124 "GET /categories/115/skus/ HTTP/1.1" 200 9390
+INFO 2018-11-03 16:51:14,696 basehttp 124 "GET /categories/115/skus/?page=2&page_size=3 HTTP/1.1" 200 8605
+INFO 2018-11-03 16:53:21,557 basehttp 124 "GET /categories/115/skus/?page=2&page_size=3&ordering=price HTTP/1.1" 200 10884
+INFO 2018-11-03 16:53:30,550 basehttp 124 "GET /categories/115/skus/?page=2&page_size=3&ordering=-price HTTP/1.1" 200 10856
+INFO 2018-11-03 16:58:22,615 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-11-03 16:58:22,738 base 152 Not Found: /cart/
+WARNING 2018-11-03 16:58:22,763 base 152 Not Found: /categories/115/
+WARNING 2018-11-03 16:58:22,765 basehttp 124 "GET /cart/ HTTP/1.1" 404 7195
+WARNING 2018-11-03 16:58:22,773 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 7225
+INFO 2018-11-03 16:58:22,827 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+WARNING 2018-11-03 16:59:04,068 base 152 Not Found: /categories/115/
+WARNING 2018-11-03 16:59:04,087 base 152 Not Found: /cart/
+WARNING 2018-11-03 16:59:04,090 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 7225
+WARNING 2018-11-03 16:59:04,094 basehttp 124 "GET /cart/ HTTP/1.1" 404 7195
+INFO 2018-11-03 16:59:04,151 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-03 16:59:35,193 basehttp 124 "GET /categories/115/skus/?page=2&page_size=5&ordering=-create_time HTTP/1.1" 200 1369
+INFO 2018-11-03 16:59:39,444 basehttp 124 "GET /categories/115/skus/?page=3&page_size=5&ordering=-create_time HTTP/1.1" 200 1033
+INFO 2018-11-03 16:59:44,357 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=price HTTP/1.1" 200 1312
+INFO 2018-11-03 16:59:48,803 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=sales HTTP/1.1" 200 1270
+INFO 2018-11-03 18:07:10,851 basehttp 124 "GET /skus/search/?text=iphone HTTP/1.1" 200 9994
+INFO 2018-11-03 18:08:01,253 basehttp 124 "GET /skus/search/?text=wifi HTTP/1.1" 200 11121
+INFO 2018-11-03 18:11:06,308 basehttp 124 "GET /skus/search/?text=iphone&page=1&page_size=6 HTTP/1.1" 200 2421
+INFO 2018-11-03 18:11:13,438 basehttp 124 "GET /skus/search/?text=wifi&page=1&page_size=6 HTTP/1.1" 200 2690
+INFO 2018-11-03 18:11:15,726 basehttp 124 "GET /skus/search/?text=wifi&page=2&page_size=6 HTTP/1.1" 200 965
+INFO 2018-11-03 18:11:16,802 basehttp 124 "GET /skus/search/?text=wifi&page=1&page_size=6 HTTP/1.1" 200 2690
+INFO 2018-11-03 18:24:54,082 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-11-03 18:24:54,101 base 152 Not Found: /categories/115/
+WARNING 2018-11-03 18:24:54,102 base 152 Not Found: /cart/
+WARNING 2018-11-03 18:24:54,103 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8444
+WARNING 2018-11-03 18:24:54,104 basehttp 124 "GET /cart/ HTTP/1.1" 404 8414
+INFO 2018-11-03 18:24:54,117 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-03 21:49:41,827 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-03 21:49:41,864 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-05 14:34:26,507 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-11-05 14:34:26,566 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+INFO 2018-11-05 14:34:26,609 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-05 14:34:26,687 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-05 14:34:26,694 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-05 14:35:53,318 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1119
+INFO 2018-11-05 14:36:36,851 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-05 14:36:36,899 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-05 14:36:36,910 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-05 14:40:51,554 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1119
+WARNING 2018-11-05 14:42:40,533 base 152 Not Found: /categories/115/
+INFO 2018-11-05 14:42:40,535 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-11-05 14:42:40,538 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8444
+WARNING 2018-11-05 14:42:40,566 base 152 Not Found: /cart/
+WARNING 2018-11-05 14:42:40,568 basehttp 124 "GET /cart/ HTTP/1.1" 404 8414
+INFO 2018-11-05 14:42:40,585 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+WARNING 2018-11-05 14:42:40,897 base 152 Not Found: /cart/
+WARNING 2018-11-05 14:42:40,905 base 152 Not Found: /categories/115/
+WARNING 2018-11-05 14:42:40,906 basehttp 124 "GET /cart/ HTTP/1.1" 404 8414
+WARNING 2018-11-05 14:42:40,908 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8444
+INFO 2018-11-05 14:42:40,928 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+WARNING 2018-11-05 14:57:42,322 base 152 Not Found: /categories/115/
+WARNING 2018-11-05 14:57:42,323 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8444
+INFO 2018-11-05 14:57:42,325 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-11-05 14:57:42,357 base 152 Not Found: /cart/
+WARNING 2018-11-05 14:57:42,358 basehttp 124 "GET /cart/ HTTP/1.1" 404 8414
+INFO 2018-11-05 14:57:42,375 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-05 14:57:43,940 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-05 14:57:43,980 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+WARNING 2018-11-05 15:00:17,287 base 152 Not Found: /categories/115/
+WARNING 2018-11-05 15:00:17,288 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8444
+WARNING 2018-11-05 15:00:17,304 base 152 Not Found: /cart/
+WARNING 2018-11-05 15:00:17,305 basehttp 124 "GET /cart/ HTTP/1.1" 404 8414
+INFO 2018-11-05 15:00:17,323 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-05 15:00:18,079 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-05 15:57:13,837 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-11-05 15:57:13,899 base 152 Not Found: /cart/
+WARNING 2018-11-05 15:57:13,900 basehttp 124 "GET /cart/ HTTP/1.1" 404 8414
+WARNING 2018-11-05 15:57:13,905 base 152 Not Found: /categories/115/
+WARNING 2018-11-05 15:57:13,908 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8444
+INFO 2018-11-05 15:57:13,933 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-05 15:57:15,077 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-05 15:57:15,117 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-05 16:39:12,914 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-11-05 16:39:12,959 base 152 Not Found: /categories/115/
+WARNING 2018-11-05 16:39:12,962 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8599
+WARNING 2018-11-05 16:39:12,968 basehttp 124 "GET /cart/ HTTP/1.1" 401 38
+INFO 2018-11-05 16:39:12,991 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-05 16:42:58,638 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-11-05 16:42:58,651 basehttp 124 "POST /cart/ HTTP/1.1" 401 38
+INFO 2018-11-05 16:47:40,640 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-11-05 16:48:17,945 basehttp 124 "POST /cart/ HTTP/1.1" 401 38
+INFO 2018-11-05 16:50:27,220 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-05 16:52:08,267 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-05 16:52:29,528 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-11-05 16:52:29,581 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+WARNING 2018-11-05 16:52:32,857 base 152 Not Found: /categories/115/
+WARNING 2018-11-05 16:52:32,859 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8599
+WARNING 2018-11-05 16:52:32,862 basehttp 124 "GET /cart/ HTTP/1.1" 405 45
+INFO 2018-11-05 16:52:32,908 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-05 16:52:34,266 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-05 16:52:34,306 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+WARNING 2018-11-05 16:52:47,134 basehttp 124 "POST /cart/ HTTP/1.1" 400 43
+INFO 2018-11-05 16:52:52,999 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-05 16:53:36,742 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-05 17:22:01,368 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-05 17:23:16,376 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-11-05 17:24:02,228 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-05 17:55:25,279 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-05 17:55:25,346 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-05 17:56:02,445 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+WARNING 2018-11-05 17:56:02,478 basehttp 124 "PUT /cart/ HTTP/1.1" 400 43
+INFO 2018-11-05 17:56:30,061 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+WARNING 2018-11-05 17:56:30,089 basehttp 124 "PUT /cart/ HTTP/1.1" 400 43
+INFO 2018-11-05 17:56:55,413 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-05 17:56:56,475 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-05 17:57:01,018 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-05 17:57:24,729 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-05 17:58:01,638 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-05 17:58:12,033 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-11-05 17:58:12,118 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+INFO 2018-11-05 17:58:13,936 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-11-05 17:58:49,164 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-05 17:59:15,206 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-05 17:59:17,939 basehttp 124 "GET /cart/ HTTP/1.1" 200 252
+INFO 2018-11-05 18:15:53,290 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-05 18:15:53,382 basehttp 124 "GET /cart/ HTTP/1.1" 200 252
+INFO 2018-11-05 18:16:18,422 basehttp 124 "DELETE /cart/ HTTP/1.1" 204 0
+INFO 2018-11-05 18:16:21,184 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-05 18:16:27,254 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-05 18:16:57,365 basehttp 124 "DELETE /cart/ HTTP/1.1" 204 0
+INFO 2018-11-05 18:17:00,575 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-06 14:28:22,841 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-06 14:28:22,852 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-06 14:47:22,381 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-06 14:47:22,391 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+WARNING 2018-11-06 14:47:26,586 base 152 Not Found: /categories/115/
+WARNING 2018-11-06 14:47:26,589 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8599
+INFO 2018-11-06 14:47:26,594 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-06 14:47:26,604 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-06 14:47:29,392 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-06 14:47:32,120 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-06 14:47:35,019 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-06 14:47:37,004 basehttp 124 "GET /cart/ HTTP/1.1" 200 748
+INFO 2018-11-06 14:47:45,691 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 14:47:45,701 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 14:47:45,712 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 14:47:48,096 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-06 14:47:48,097 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-06 14:47:48,101 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-06 14:47:57,800 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 14:47:57,805 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 14:47:57,805 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 14:48:07,634 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-06 14:48:07,638 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-06 14:48:07,638 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-06 14:48:12,875 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 14:48:12,875 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 14:48:12,876 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 15:07:09,119 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-06 15:07:09,137 basehttp 124 "GET /cart/ HTTP/1.1" 200 749
+INFO 2018-11-06 15:07:32,296 basehttp 124 "GET /cart/ HTTP/1.1" 200 749
+INFO 2018-11-06 15:07:34,179 basehttp 124 "GET /cart/ HTTP/1.1" 200 749
+INFO 2018-11-06 15:07:41,658 basehttp 124 "OPTIONS /cart/selection/ HTTP/1.1" 200 0
+INFO 2018-11-06 15:08:03,743 basehttp 124 "PUT /cart/selection/ HTTP/1.1" 200 16
+INFO 2018-11-06 15:08:21,327 basehttp 124 "PUT /cart/selection/ HTTP/1.1" 200 16
+INFO 2018-11-06 15:08:32,328 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-11-06 15:08:32,391 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+INFO 2018-11-06 15:08:34,135 basehttp 124 "GET /cart/ HTTP/1.1" 200 751
+INFO 2018-11-06 15:08:57,974 basehttp 124 "PUT /cart/selection/ HTTP/1.1" 200 16
+INFO 2018-11-06 15:09:12,647 basehttp 124 "PUT /cart/selection/ HTTP/1.1" 200 16
+INFO 2018-11-06 15:55:59,125 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-06 15:55:59,165 basehttp 124 "GET /cart/ HTTP/1.1" 200 751
+INFO 2018-11-06 15:56:01,499 basehttp 124 "GET /cart/ HTTP/1.1" 200 751
+INFO 2018-11-06 15:56:03,956 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-06 15:56:06,512 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 15:56:17,219 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-11-06 16:02:18,859 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+INFO 2018-11-06 16:02:22,193 basehttp 124 "GET /cart/ HTTP/1.1" 200 1501
+INFO 2018-11-06 16:02:31,466 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-06 16:19:16,026 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-06 16:19:16,055 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-06 16:51:01,223 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-11-06 16:51:01,286 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+INFO 2018-11-06 16:51:03,138 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-06 16:51:03,176 basehttp 124 "GET /cart/ HTTP/1.1" 200 1501
+INFO 2018-11-06 16:51:11,410 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-06 17:13:14,780 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-06 17:13:14,781 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-06 17:13:14,871 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+ERROR 2018-11-06 17:13:14,917 exceptions 29 [<orders.views.OrderSettlementView object at 0x1126d30f0>] WRONGTYPE Operation against a key holding the wrong kind of value
+ERROR 2018-11-06 17:13:14,919 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 507 35
+INFO 2018-11-06 17:13:49,026 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-06 17:13:49,059 basehttp 124 "GET /cart/ HTTP/1.1" 200 1500
+INFO 2018-11-06 17:13:52,351 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 17:13:53,411 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-06 17:13:56,475 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+ERROR 2018-11-06 17:14:12,434 exceptions 29 [<orders.views.OrderSettlementView object at 0x11275f470>] WRONGTYPE Operation against a key holding the wrong kind of value
+ERROR 2018-11-06 17:14:12,436 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 507 35
+INFO 2018-11-06 17:15:00,383 basehttp 124 "GET /cart/ HTTP/1.1" 200 1500
+INFO 2018-11-06 17:15:03,128 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-06 17:15:44,519 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 491
+INFO 2018-11-06 17:21:04,796 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+ERROR 2018-11-06 17:21:04,798 exception 135 Internal Server Error: /orders/settlement/
+Traceback (most recent call last):
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/fields.py", line 441, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/fields.py", line 100, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'SKU' object has no attribute 'count'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/smart/Desktop/sy14_code/meiduo_sy14/meiduo_mall/meiduo_mall/apps/orders/views.py", line 70, in get
+    return Response(serializer.data)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 560, in data
+    ret = super(Serializer, self).data
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 527, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 683, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 683, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 514, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/fields.py", line 462, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `count` on serializer `OrderSKUSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `SKU` instance.
+Original exception text was: 'SKU' object has no attribute 'count'.
+ERROR 2018-11-06 17:21:04,941 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 500 22111
+INFO 2018-11-06 17:21:08,296 basehttp 124 "GET /cart/ HTTP/1.1" 200 1500
+ERROR 2018-11-06 17:21:12,043 exception 135 Internal Server Error: /orders/settlement/
+Traceback (most recent call last):
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/fields.py", line 441, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/fields.py", line 100, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'SKU' object has no attribute 'count'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/smart/Desktop/sy14_code/meiduo_sy14/meiduo_mall/meiduo_mall/apps/orders/views.py", line 70, in get
+    return Response(serializer.data)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 560, in data
+    ret = super(Serializer, self).data
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 527, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 683, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 683, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 514, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/fields.py", line 462, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `count` on serializer `OrderSKUSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `SKU` instance.
+Original exception text was: 'SKU' object has no attribute 'count'.
+INFO 2018-11-06 17:21:12,055 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+ERROR 2018-11-06 17:21:12,129 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 500 22110
+INFO 2018-11-06 17:21:57,273 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-06 17:21:57,291 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 494
+INFO 2018-11-06 18:16:26,813 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-06 18:16:26,814 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-06 18:16:26,904 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-06 18:16:26,918 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 494
+INFO 2018-11-06 18:16:30,054 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-06 18:16:30,085 basehttp 124 "GET /cart/ HTTP/1.1" 200 1500
+INFO 2018-11-06 18:16:33,342 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-11-06 18:16:34,539 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-06 18:16:36,387 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 495
+INFO 2018-11-06 18:16:36,399 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-06 18:17:06,472 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+ERROR 2018-11-06 18:19:14,316 exception 135 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/smart/Desktop/sy14_code/meiduo_sy14/meiduo_mall/meiduo_mall/apps/orders/views.py", line 34, in post
+    serializer.save()
+  File "/Users/smart/.virtualenvs/django/lib/python3.5/site-packages/rest_framework/serializers.py", line 214, in save
+    self.instance = self.create(validated_data)
+  File "/Users/smart/Desktop/sy14_code/meiduo_sy14/meiduo_mall/meiduo_mall/apps/orders/serializers.py", line 100, in create
+    cart_dict = redis_conn.getall(cart_key)
+AttributeError: 'StrictRedis' object has no attribute 'getall'
+ERROR 2018-11-06 18:19:14,423 basehttp 124 "POST /orders/ HTTP/1.1" 500 20270
+INFO 2018-11-06 18:19:58,350 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-06 18:21:47,825 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+INFO 2018-11-06 18:21:59,761 basehttp 124 "GET /cart/ HTTP/1.1" 200 1001
+INFO 2018-11-08 14:37:35,392 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-08 14:37:35,403 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-08 15:05:27,609 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:05:27,668 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+INFO 2018-11-08 15:05:29,667 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:05:29,701 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-08 15:05:32,897 basehttp 124 "PUT /cart/ HTTP/1.1" 200 38
+INFO 2018-11-08 15:05:34,039 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:05:34,040 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:05:34,127 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 260
+INFO 2018-11-08 15:05:34,131 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 15:05:42,848 basehttp 124 "GET /cart/ HTTP/1.1" 200 249
+WARNING 2018-11-08 15:05:46,081 base 152 Not Found: /categories/115/
+WARNING 2018-11-08 15:05:46,084 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 9089
+INFO 2018-11-08 15:05:46,114 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-08 15:05:46,122 basehttp 124 "GET /cart/ HTTP/1.1" 200 249
+INFO 2018-11-08 15:05:47,117 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:05:47,177 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-08 15:05:51,950 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-08 15:05:54,102 basehttp 124 "GET /cart/ HTTP/1.1" 200 499
+INFO 2018-11-08 15:05:55,495 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-08 15:05:57,872 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-08 15:05:58,425 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-08 15:06:00,054 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-11-08 15:06:00,057 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 15:06:38,220 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+WARNING 2018-11-08 15:06:45,258 basehttp 124 "POST /orders/ HTTP/1.1" 400 22
+INFO 2018-11-08 15:17:16,217 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+WARNING 2018-11-08 15:17:56,126 basehttp 124 "POST /orders/ HTTP/1.1" 400 22
+INFO 2018-11-08 15:35:08,436 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:35:08,475 basehttp 124 "GET /cart/ HTTP/1.1" 200 500
+WARNING 2018-11-08 15:35:14,861 basehttp 124 "PUT /cart/ HTTP/1.1" 400 43
+INFO 2018-11-08 15:35:43,017 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-08 15:35:43,436 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-11-08 15:35:45,665 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:35:45,665 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:35:45,731 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 15:35:45,732 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-11-08 15:36:15,017 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:36:15,072 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2018-11-08 15:36:20,309 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:36:20,355 basehttp 124 "GET /user/ HTTP/1.1" 200 83
+INFO 2018-11-08 15:36:20,362 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:36:20,389 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 238
+INFO 2018-11-08 15:36:21,652 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:36:21,675 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-11-08 15:36:21,691 basehttp 124 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2018-11-08 15:36:32,971 basehttp 124 "GET /areas/110000/ HTTP/1.1" 200 74
+INFO 2018-11-08 15:36:33,925 basehttp 124 "GET /areas/110100/ HTTP/1.1" 200 575
+INFO 2018-11-08 15:36:54,161 basehttp 124 "POST /addresses/ HTTP/1.1" 201 235
+INFO 2018-11-08 15:36:55,686 basehttp 124 "OPTIONS /addresses/2/status/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:36:55,724 basehttp 124 "PUT /addresses/2/status/ HTTP/1.1" 200 16
+WARNING 2018-11-08 15:37:01,515 base 152 Not Found: /categories/115/
+WARNING 2018-11-08 15:37:01,520 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 9089
+INFO 2018-11-08 15:37:01,521 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:37:01,551 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-08 15:37:01,571 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-08 15:37:03,106 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-08 15:37:12,086 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-08 15:37:16,660 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-11-08 15:37:18,593 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:37:18,642 basehttp 124 "GET /addresses/ HTTP/1.1" 200 297
+INFO 2018-11-08 15:37:18,663 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-11-08 15:37:57,596 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:38:00,239 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:38:08,097 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+INFO 2018-11-08 15:38:10,365 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+INFO 2018-11-08 15:52:27,714 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:52:27,752 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-08 15:52:29,926 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:52:29,998 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-08 15:52:30,004 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:52:30,078 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1181
+INFO 2018-11-08 15:52:31,488 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-08 15:52:34,961 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-08 15:52:37,328 basehttp 124 "GET /cart/ HTTP/1.1" 200 500
+INFO 2018-11-08 15:52:38,869 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:52:38,870 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:52:38,935 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 15:52:38,937 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-11-08 15:52:46,141 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:52:46,168 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-08 15:52:47,178 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:52:47,206 basehttp 124 "GET /user/ HTTP/1.1" 200 83
+INFO 2018-11-08 15:52:47,212 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:52:47,240 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 238
+INFO 2018-11-08 15:52:48,119 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-08 15:52:51,050 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-08 15:52:53,093 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-11-08 15:52:53,989 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:52:53,990 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:52:54,040 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-11-08 15:52:54,061 basehttp 124 "GET /addresses/ HTTP/1.1" 200 297
+INFO 2018-11-08 15:53:14,337 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:53:16,976 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-08 15:53:24,482 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+INFO 2018-11-08 15:53:34,568 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+INFO 2018-11-08 16:33:55,428 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:33:55,446 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-08 16:33:56,806 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:33:56,819 basehttp 124 "GET /user/ HTTP/1.1" 200 99
+INFO 2018-11-08 16:33:56,824 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:33:56,844 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1181
+INFO 2018-11-08 16:33:57,995 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-08 16:34:01,721 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-08 16:34:04,442 basehttp 124 "GET /cart/ HTTP/1.1" 200 500
+INFO 2018-11-08 16:34:05,545 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:34:05,545 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:34:05,578 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 16:34:05,582 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-11-08 16:34:13,685 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:34:13,696 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-08 16:34:14,368 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:34:14,389 basehttp 124 "GET /user/ HTTP/1.1" 200 83
+INFO 2018-11-08 16:34:14,394 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:34:14,410 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 238
+INFO 2018-11-08 16:34:15,291 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-08 16:34:18,461 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-08 16:34:20,492 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-11-08 16:34:21,475 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:34:21,476 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:34:21,503 basehttp 124 "GET /addresses/ HTTP/1.1" 200 297
+INFO 2018-11-08 16:34:21,506 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-11-08 16:34:57,673 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:35:00,175 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:35:07,720 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+WARNING 2018-11-08 16:35:30,217 basehttp 124 "POST /orders/ HTTP/1.1" 400 17
+INFO 2018-11-08 16:44:26,541 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:44:26,563 basehttp 124 "GET /user/ HTTP/1.1" 200 83
+INFO 2018-11-08 16:44:26,569 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:44:26,585 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 238
+INFO 2018-11-08 16:44:36,517 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-08 16:44:39,825 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:44:39,841 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-08 16:44:42,822 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-11-08 16:44:43,948 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:44:43,949 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:44:44,004 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-11-08 16:44:44,006 basehttp 124 "GET /addresses/ HTTP/1.1" 200 297
+INFO 2018-11-08 16:44:59,196 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:45:01,564 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:45:09,226 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+INFO 2018-11-08 16:45:21,599 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+INFO 2018-11-08 16:50:46,323 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:50:46,324 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:50:46,337 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 29
+INFO 2018-11-08 16:50:46,449 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 16:51:05,178 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 29
+INFO 2018-11-08 16:51:05,180 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 16:51:13,859 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 16:51:13,860 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 29
+INFO 2018-11-08 16:51:18,183 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 29
+INFO 2018-11-08 16:51:18,185 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 16:51:24,953 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 29
+INFO 2018-11-08 16:51:24,954 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 16:51:45,621 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-08 16:51:45,638 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-08 16:51:47,801 basehttp 124 "PUT /cart/ HTTP/1.1" 200 38
+INFO 2018-11-08 16:51:50,150 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 260
+INFO 2018-11-08 16:51:50,156 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-08 16:51:53,453 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+INFO 2018-11-08 18:20:03,999 basehttp 124 "OPTIONS /orders/201811081651530000000002/payment/ HTTP/1.1" 200 0
+INFO 2018-11-08 18:20:51,042 basehttp 124 "GET /orders/201811081651530000000002/payment/ HTTP/1.1" 200 865
+INFO 2018-11-09 14:47:37,042 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-11-09 14:47:37,090 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 228
+WARNING 2018-11-09 14:47:39,738 base 152 Not Found: /categories/115/
+WARNING 2018-11-09 14:47:39,740 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 9278
+INFO 2018-11-09 14:47:39,741 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-11-09 14:47:39,764 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-09 14:47:39,765 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-09 14:47:40,563 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-09 14:47:40,597 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-09 14:47:41,964 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-09 14:47:43,754 basehttp 124 "GET /cart/ HTTP/1.1" 200 250
+INFO 2018-11-09 14:47:45,512 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-09 14:47:45,512 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-09 14:47:45,581 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 261
+INFO 2018-11-09 14:47:45,583 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-09 14:47:51,387 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-09 14:47:51,419 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+INFO 2018-11-09 14:47:55,085 basehttp 124 "OPTIONS /orders/201811091447510000000002/payment/ HTTP/1.1" 200 0
+INFO 2018-11-09 14:47:55,194 basehttp 124 "GET /orders/201811091447510000000002/payment/ HTTP/1.1" 200 857
+INFO 2018-11-09 15:08:12,486 basehttp 124 "OPTIONS /payment/status/?charset=utf-8&out_trade_no=201811091447510000000002&method=alipay.trade.page.pay.return&total_amount=3398.00&sign=q62b541iGJ6ZXMing7Pkyv9NF0F9jlyNlry1rcd%2Ffx%2FsJ3TtM9dLx74h83pd9kSFh70TcPTNsDz4v4d26g%2BI4MqhMMO4fimECn%2F0%2BNi1T2SuQSLMAzik0bgQeYQVYw6K9OqPkaD6%2FdJCQ3dO7RnrvwxR8G3Fn%2FpoH361tKawtwxzocCHglefIC4x4Pi1%2F%2BH0B0fj7LqsR07jgipRYxBjE3E50DsO0lVtBx6SUM%2FhdWmecTgkVmy2q3CI%2FkWLXRH45CJeZoSBbusYmXL9jeqPiywdQ9SZNcuZNa2O867Q%2FezP9vUi03nV0uS2%2Bom7VRkntAm3%2BXCB1bIOxUuMkOgwzA%3D%3D&trade_no=2018110922001485920500548038&auth_app_id=2016090800464054&version=1.0&app_id=2016090800464054&sign_type=RSA2&seller_id=2088102174694091&timestamp=2018-11-09+14%3A48%3A49 HTTP/1.1" 200 0
+INFO 2018-11-09 15:09:07,280 basehttp 124 "PUT /payment/status/?charset=utf-8&out_trade_no=201811091447510000000002&method=alipay.trade.page.pay.return&total_amount=3398.00&sign=q62b541iGJ6ZXMing7Pkyv9NF0F9jlyNlry1rcd%2Ffx%2FsJ3TtM9dLx74h83pd9kSFh70TcPTNsDz4v4d26g%2BI4MqhMMO4fimECn%2F0%2BNi1T2SuQSLMAzik0bgQeYQVYw6K9OqPkaD6%2FdJCQ3dO7RnrvwxR8G3Fn%2FpoH361tKawtwxzocCHglefIC4x4Pi1%2F%2BH0B0fj7LqsR07jgipRYxBjE3E50DsO0lVtBx6SUM%2FhdWmecTgkVmy2q3CI%2FkWLXRH45CJeZoSBbusYmXL9jeqPiywdQ9SZNcuZNa2O867Q%2FezP9vUi03nV0uS2%2Bom7VRkntAm3%2BXCB1bIOxUuMkOgwzA%3D%3D&trade_no=2018110922001485920500548038&auth_app_id=2016090800464054&version=1.0&app_id=2016090800464054&sign_type=RSA2&seller_id=2088102174694091&timestamp=2018-11-09+14%3A48%3A49 HTTP/1.1" 200 43
+INFO 2018-11-09 15:09:54,232 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-11-09 15:09:54,237 base 152 Not Found: /categories/115/
+WARNING 2018-11-09 15:09:54,239 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 9443
+INFO 2018-11-09 15:09:54,297 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-11-09 15:09:54,305 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-11-09 15:09:56,088 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-11-09 15:09:56,174 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+WARNING 2018-11-09 15:09:57,163 basehttp 124 "POST /cart/ HTTP/1.1" 400 43
+INFO 2018-11-09 15:09:59,341 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-11-09 15:10:00,028 basehttp 124 "POST /cart/ HTTP/1.1" 201 39
+INFO 2018-11-09 15:10:01,813 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-11-09 15:10:02,951 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-11-09 15:10:02,952 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-11-09 15:10:03,063 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-11-09 15:10:03,084 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-11-09 15:10:06,012 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-11-09 15:10:06,130 basehttp 124 "POST /orders/ HTTP/1.1" 201 39
+INFO 2018-11-09 15:10:07,901 basehttp 124 "OPTIONS /orders/201811091510060000000002/payment/ HTTP/1.1" 200 0
+INFO 2018-11-09 15:10:08,421 basehttp 124 "GET /orders/201811091510060000000002/payment/ HTTP/1.1" 200 867
+INFO 2018-11-09 15:10:49,982 basehttp 124 "OPTIONS /payment/status/?charset=utf-8&out_trade_no=201811091510060000000002&method=alipay.trade.page.pay.return&total_amount=3798.00&sign=LmZ0ekCFn%2Fic%2BdhMAoYCVA%2B9YNjUISa5vANiu%2F25ERul%2BJdpIcKs8TrX7RtqAkV8lniqY9s67LeV2rE4OQBnQZgcYz4uaSvtyhoQCT9tFvEXY1WrJvtrjT2QaKZHuKeXs6TnXq%2BZ2MjtawDOT6qv5vJolNi4H8p6e1Hv9%2F%2B5eJCT2H56giIlOfE9XCw%2BXm4iOfj4g2fdX9iyo7NbY2zsWTRUJEYVGqh7L7TJUU%2BG1%2FzpcUKlYHQ3StD0bnOmfZrzvaFifl8PzphGrlZwKSmtZocb6dpU0lTLn05oJfHPiPcwq9Ptk5BZgtEy%2Bz%2BM%2FMN9ebgMSVtXUweF7%2FaKxr8niA%3D%3D&trade_no=2018110922001485920500546997&auth_app_id=2016090800464054&version=1.0&app_id=2016090800464054&sign_type=RSA2&seller_id=2088102174694091&timestamp=2018-11-09+15%3A10%3A43 HTTP/1.1" 200 0
+INFO 2018-11-09 15:10:50,503 basehttp 124 "PUT /payment/status/?charset=utf-8&out_trade_no=201811091510060000000002&method=alipay.trade.page.pay.return&total_amount=3798.00&sign=LmZ0ekCFn%2Fic%2BdhMAoYCVA%2B9YNjUISa5vANiu%2F25ERul%2BJdpIcKs8TrX7RtqAkV8lniqY9s67LeV2rE4OQBnQZgcYz4uaSvtyhoQCT9tFvEXY1WrJvtrjT2QaKZHuKeXs6TnXq%2BZ2MjtawDOT6qv5vJolNi4H8p6e1Hv9%2F%2B5eJCT2H56giIlOfE9XCw%2BXm4iOfj4g2fdX9iyo7NbY2zsWTRUJEYVGqh7L7TJUU%2BG1%2FzpcUKlYHQ3StD0bnOmfZrzvaFifl8PzphGrlZwKSmtZocb6dpU0lTLn05oJfHPiPcwq9Ptk5BZgtEy%2Bz%2BM%2FMN9ebgMSVtXUweF7%2FaKxr8niA%3D%3D&trade_no=2018110922001485920500546997&auth_app_id=2016090800464054&version=1.0&app_id=2016090800464054&sign_type=RSA2&seller_id=2088102174694091&timestamp=2018-11-09+15%3A10%3A43 HTTP/1.1" 200 43
+INFO 2018-11-09 15:12:53,975 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-11-09 15:12:54,332 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-11-09 15:13:01,998 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2018-11-09 15:13:02,231 basehttp 124 "GET /admin/ HTTP/1.1" 200 8877
+INFO 2018-11-09 15:13:07,266 basehttp 124 "GET /admin/logout/ HTTP/1.1" 200 1011
+INFO 2018-11-09 15:15:09,400 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 4163
+INFO 2018-11-09 15:15:09,657 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4170
+INFO 2018-11-09 15:15:10,204 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 4163
+INFO 2018-11-09 15:15:10,328 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4170
+INFO 2018-11-09 15:15:22,684 basehttp 124 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2018-11-09 15:15:22,896 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 9390
+INFO 2018-11-09 15:15:22,964 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:17:37,058 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 9390
+INFO 2018-11-09 15:17:37,130 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:17:59,938 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 10527
+INFO 2018-11-09 15:18:00,005 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:18:04,911 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 29331
+INFO 2018-11-09 15:18:04,960 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:18:06,381 basehttp 124 "GET /xadmin/goods/goods/ HTTP/1.1" 200 25132
+INFO 2018-11-09 15:18:06,441 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:18:08,429 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 29331
+INFO 2018-11-09 15:18:08,476 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:18:10,821 basehttp 124 "GET /xadmin/goods/sku/16/update/ HTTP/1.1" 200 39279
+INFO 2018-11-09 15:18:10,881 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:18:14,264 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 29331
+INFO 2018-11-09 15:18:14,310 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:20:29,275 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 39793
+INFO 2018-11-09 15:20:29,326 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:21:06,433 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 39819
+INFO 2018-11-09 15:21:06,612 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:21:45,079 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 40303
+INFO 2018-11-09 15:21:45,246 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:22:14,305 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 85892
+INFO 2018-11-09 15:22:14,480 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:22:57,808 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 97500
+INFO 2018-11-09 15:22:57,877 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:23:00,670 basehttp 124 "GET /xadmin/goods/sku/16/patch/?fields=stock HTTP/1.1" 200 476
+INFO 2018-11-09 15:23:04,720 basehttp 124 "POST /xadmin/goods/sku/16/patch/ HTTP/1.1" 200 77
+INFO 2018-11-09 15:23:55,101 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 103588
+INFO 2018-11-09 15:23:55,165 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:23:57,419 basehttp 124 "GET /xadmin/goods/sku/16/detail/?_format=html HTTP/1.1" 200 2970
+INFO 2018-11-09 15:24:40,214 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 102116
+INFO 2018-11-09 15:24:40,279 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:24:54,231 basehttp 124 "GET /xadmin/goods/sku/?_do_=export&export_type=xls&export_xls_header=on&all=on HTTP/1.1" 200 9728
+INFO 2018-11-09 15:25:31,668 basehttp 124 "GET /xadmin/goods/sku/16/update/ HTTP/1.1" 200 39449
+INFO 2018-11-09 15:25:31,721 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:25:54,254 basehttp 124 "GET /xadmin/goods/sku/16/update/ HTTP/1.1" 200 39106
+INFO 2018-11-09 15:25:54,340 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:40:56,713 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 10637
+INFO 2018-11-09 15:40:56,734 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:41:06,269 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 11414
+INFO 2018-11-09 15:41:06,292 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:41:08,268 basehttp 124 "GET /xadmin/orders/orderinfo/ HTTP/1.1" 200 35953
+INFO 2018-11-09 15:41:08,289 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:41:23,656 basehttp 124 "GET /xadmin/orders/orderinfo/ HTTP/1.1" 200 36427
+INFO 2018-11-09 15:41:23,680 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:41:28,686 basehttp 124 "GET /xadmin/orders/orderinfo/?_refresh=3 HTTP/1.1" 200 37140
+INFO 2018-11-09 15:41:28,706 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:41:31,861 basehttp 124 "GET /xadmin/orders/orderinfo/?_refresh=3 HTTP/1.1" 200 37140
+INFO 2018-11-09 15:41:31,886 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:41:35,025 basehttp 124 "GET /xadmin/orders/orderinfo/?_refresh=3 HTTP/1.1" 200 37140
+INFO 2018-11-09 15:41:35,051 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:41:36,920 basehttp 124 "GET /xadmin/orders/orderinfo/? HTTP/1.1" 200 36427
+INFO 2018-11-09 15:41:36,937 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:43:10,669 basehttp 124 "GET /xadmin/orders/orderinfo/? HTTP/1.1" 200 38009
+INFO 2018-11-09 15:43:10,697 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:43:10,776 basehttp 124 "GET /xadmin/orders/orderinfo/chart/order_count/? HTTP/1.1" 200 490
+INFO 2018-11-09 15:43:15,768 basehttp 124 "GET /xadmin/orders/orderinfo/chart/order_amount/? HTTP/1.1" 200 593
+INFO 2018-11-09 15:49:13,310 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 11863
+INFO 2018-11-09 15:49:13,360 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:49:15,066 basehttp 124 "GET /xadmin/users/user/ HTTP/1.1" 200 39716
+INFO 2018-11-09 15:49:15,108 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:50:53,353 basehttp 124 "GET /xadmin/users/user/add/ HTTP/1.1" 200 15007
+INFO 2018-11-09 15:50:53,378 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:51:49,850 basehttp 124 "GET /xadmin/users/user/add/ HTTP/1.1" 200 15007
+INFO 2018-11-09 15:51:49,883 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:51:51,860 basehttp 124 "GET /xadmin/users/user/add/ HTTP/1.1" 200 15007
+INFO 2018-11-09 15:51:51,891 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:52:03,771 basehttp 124 "GET /xadmin/users/user/add/ HTTP/1.1" 200 16118
+INFO 2018-11-09 15:52:03,822 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:52:38,488 basehttp 124 "GET /xadmin/users/user/ HTTP/1.1" 200 39522
+INFO 2018-11-09 15:52:38,531 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:54:04,544 basehttp 124 "GET /xadmin/users/user/ HTTP/1.1" 200 41784
+INFO 2018-11-09 15:54:04,588 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-11-09 15:54:08,237 basehttp 124 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2018-11-09 15:54:13,530 basehttp 124 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2018-11-09 15:54:13,547 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-theme.css HTTP/1.1" 200 19791
+INFO 2018-11-09 15:54:55,867 basehttp 124 "GET /xadmin/users/user/ HTTP/1.1" 200 43758
+INFO 2018-11-09 15:54:55,922 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+WARNING 2018-11-09 17:01:17,777 base 152 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2018-11-09 17:01:18,506 base 152 Not Found: /static/rest_framework/css/default.css
+WARNING 2018-11-09 17:01:18,515 base 152 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2018-11-09 17:01:18,523 base 152 Not Found: /static/rest_framework/js/default.js
+WARNING 2018-11-09 17:01:18,526 base 152 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2018-11-09 17:01:18,530 base 152 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2018-11-09 17:01:18,537 base 152 Not Found: /static/rest_framework/js/jquery-3.3.1.min.js
+WARNING 2018-11-09 17:01:18,538 base 152 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2018-11-09 17:01:18,538 base 152 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2018-11-09 17:01:18,546 base 152 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2018-11-09 17:01:18,549 base 152 Not Found: /static/rest_framework/js/jquery-3.3.1.min.js
+WARNING 2018-11-09 17:01:18,613 base 152 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2018-11-09 17:01:18,619 base 152 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2018-11-09 17:01:18,624 base 152 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2018-11-09 17:01:18,632 base 152 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2018-11-09 17:01:18,638 base 152 Not Found: /static/rest_framework/js/default.js
+WARNING 2018-11-09 17:02:13,795 base 152 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2018-11-09 17:02:13,796 base 152 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2018-11-09 17:02:13,796 base 152 Not Found: /static/rest_framework/js/jquery-3.3.1.min.js
+WARNING 2018-11-09 17:02:13,796 base 152 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2018-11-09 17:02:13,798 base 152 Not Found: /static/rest_framework/css/default.css
+WARNING 2018-11-09 17:02:13,798 base 152 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2018-11-09 17:02:13,800 base 152 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2018-11-09 17:02:13,803 base 152 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2018-11-09 17:02:13,805 base 152 Not Found: /static/rest_framework/js/default.js
+WARNING 2018-11-09 17:02:13,805 base 152 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2018-11-09 17:02:13,806 base 152 Not Found: /static/rest_framework/js/jquery-3.3.1.min.js
+WARNING 2018-11-09 17:02:13,812 base 152 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2018-11-09 17:02:13,882 base 152 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2018-11-09 17:02:13,889 base 152 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2018-11-09 17:02:13,895 base 152 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2018-11-09 17:02:13,900 base 152 Not Found: /static/rest_framework/js/default.js
+WARNING 2018-11-09 17:03:35,034 base 152 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2018-11-09 17:03:35,035 base 152 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2018-11-09 17:03:35,035 base 152 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2018-11-09 17:03:35,036 base 152 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2018-11-09 17:03:35,037 base 152 Not Found: /static/rest_framework/js/jquery-3.3.1.min.js
+WARNING 2018-11-09 17:03:35,037 base 152 Not Found: /static/rest_framework/css/default.css
+WARNING 2018-11-09 17:03:35,040 base 152 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2018-11-09 17:03:35,044 base 152 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2018-11-09 17:03:35,044 base 152 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2018-11-09 17:03:35,046 base 152 Not Found: /static/rest_framework/js/default.js
+WARNING 2018-11-09 17:03:35,055 base 152 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2018-11-09 17:03:35,060 base 152 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2018-11-09 17:03:35,066 base 152 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2018-11-09 17:03:35,070 base 152 Not Found: /static/rest_framework/js/default.js
+INFO 2018-11-09 17:30:29,983 views 36 短信验证码为: 500667
+WARNING 2018-11-09 17:48:56,079 base 152 Not Found: /static/xadmin/vendor/jquery/jquery.min.js
+WARNING 2018-11-09 17:48:56,089 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2018-11-09 17:48:56,092 base 152 Not Found: /static/xadmin/vendor/font-awesome/css/font-awesome.min.css
+WARNING 2018-11-09 17:48:56,092 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2018-11-09 17:48:56,094 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2018-11-09 17:48:56,094 base 152 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2018-11-09 17:48:56,098 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2018-11-09 17:48:56,485 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2018-11-09 17:48:56,570 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2018-11-09 17:48:56,593 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2018-11-09 17:48:56,597 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2018-11-09 17:48:56,601 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2018-11-09 17:48:56,605 base 152 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2018-11-09 17:48:56,610 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2018-11-09 17:49:02,215 base 152 Not Found: /static/xadmin/vendor/font-awesome/css/font-awesome.min.css
+WARNING 2018-11-09 17:49:02,216 base 152 Not Found: /static/xadmin/vendor/jquery/jquery.min.js
+WARNING 2018-11-09 17:49:02,216 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2018-11-09 17:49:02,216 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2018-11-09 17:49:02,218 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2018-11-09 17:49:02,222 base 152 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2018-11-09 17:49:02,225 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2018-11-09 17:49:02,244 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2018-11-09 17:49:02,296 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2018-11-09 17:49:02,308 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2018-11-09 17:49:02,313 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2018-11-09 17:49:02,316 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2018-11-09 17:49:02,320 base 152 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2018-11-09 17:49:02,324 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+ERROR 2018-11-09 17:50:56,378 exception 80 Invalid HTTP_HOST header: 'www.meiduo.site'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+ERROR 2018-11-09 17:51:35,010 exception 80 Invalid HTTP_HOST header: 'www.meiduo.site'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+ERROR 2018-11-09 17:51:36,789 exception 80 Invalid HTTP_HOST header: 'www.meiduo.site'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
