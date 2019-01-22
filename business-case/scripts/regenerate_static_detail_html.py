@@ -6,7 +6,7 @@ sys.path.insert(0, '../')
 
 # 设置Django运行所依赖环境变量
 if not os.environ.get('DJANGO_SETTINGS_MODULE'):
-    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "meiduo_mall.settings.dev")
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "business-case.settings.dev")
 
 # 让Django进行一次初始化
 import django

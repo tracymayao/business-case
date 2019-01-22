@@ -50,7 +50,7 @@ INSTALLED_APPS = [
     'xadmin',
     'crispy_forms',
     'reversion',
-    # 'meiduo_mall.apps.users.apps.UsersConfig',
+    # 'business-case.apps.users.apps.UsersConfig',
     'pictest.apps.PictestConfig',
     'users.apps.UsersConfig',
     'verifications.apps.VerificationsConfig',
@@ -74,7 +74,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'meiduo_mall.urls'
+ROOT_URLCONF = 'business-case.urls'
 
 TEMPLATES = [
     {
@@ -93,7 +93,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'meiduo_mall.wsgi.application'
+WSGI_APPLICATION = 'business-case.wsgi.application'
 
 
 # Database
@@ -246,7 +246,7 @@ LOGGING = {
 
 REST_FRAMEWORK = {
     # 指定DRF框架的异常处理函数
-    'EXCEPTION_HANDLER': 'meiduo_mall.utils.exceptions.exception_handler',
+    'EXCEPTION_HANDLER': 'business-case.utils.exceptions.exception_handler',
     # 认证设置
     'DEFAULT_AUTHENTICATION_CLASSES': (
         # 引入jwt扩展中的jwt 认证机制
@@ -257,7 +257,7 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.BasicAuthentication',
     ),
     # 指定DRF框架的全局分页类
-    'DEFAULT_PAGINATION_CLASS': 'meiduo_mall.utils.pagination.StandardResultPagination',
+    'DEFAULT_PAGINATION_CLASS': 'business-case.utils.pagination.StandardResultPagination',
 }
 
 # JWT扩展设置
@@ -318,7 +318,7 @@ FDFS_CLIENT_CONF = os.path.join(BASE_DIR, 'utils/fastdfs/client.conf')
 FDFS_URL = 'http://image.meiduo.site:8888/' # image.meiduo.site
 
 # 指定Django框架使用的文件存储类
-DEFAULT_FILE_STORAGE = 'meiduo_mall.utils.fastdfs.fdfs_storage.FDFSStorage'
+DEFAULT_FILE_STORAGE = 'business-case.utils.fastdfs.fdfs_storage.FDFSStorage'
 
 # 富文本编辑器ckeditor配置
 CKEDITOR_CONFIGS = {

@@ -5,7 +5,7 @@ import sys
 if __name__ == "__main__":
     # sys.path: 搜索包目录列表
     # print(sys.path)
-    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "meiduo_mall.settings.dev")
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "business-case.settings.dev")
     try:
         from django.core.management import execute_from_command_line
     except ImportError:

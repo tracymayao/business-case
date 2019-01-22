@@ -3,7 +3,7 @@ from celery import Celery
 # 设置Django运行所依赖的环境变量
 import os
 if not os.environ.get('DJANGO_SETTINGS_MODULE'):
-    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "meiduo_mall.settings.dev")
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "business-case.settings.dev")
 
 
 # 创建Celery类实例对象
